@@ -4,7 +4,7 @@
 
 Horas Complementares é uma aplicação full stack web construída para a matéria de Tópicos Especiais em Tecnologia do curso de Análise e Desenvolvimento de Sistemas.
 
-A aplicação consiste em um sistema de registro de Horas Complementares para instrituições de ensino superior UNASP, dando suporte a criação de usuários, login e tela de perfil de usuário, inserção de comprovantes de horas complementares e chat para notificação e comentário sobre os comprovantes.
+A aplicação consiste em um sistema de registro de Horas Complementares para instituição de ensino superior UNASP, dando suporte a criação de usuários, login e tela de perfil de usuário, inserção de comprovantes de horas complementares e chat para notificação e comentários sobre os comprovantes.
 
 ## Layout
 ![Web 1](https://github.com/UNASP-Horas-Complementares/Assets/blob/master/indexscreen.png)
