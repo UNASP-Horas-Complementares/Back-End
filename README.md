@@ -4,23 +4,20 @@
 
 Horas Complementares é uma aplicação full stack web construída para a matéria de Tópicos Especiais em Tecnologia do curso de Análise e Desenvolvimento de Sistemas.
 
-A aplicação consiste em um sistema de registro de Horas Complementares para instituição de ensino superior UNASP, dando suporte a criação de usuários, login e tela de perfil de usuário, inserção de comprovantes de horas complementares e chat para notificação e comentários sobre os comprovantes.
+A aplicação consiste em um sistema de registro de Horas Complementares para instituição de ensino superior UNASP, dando suporte a criação de usuários, login e tela de perfil de usuário, inserção de comprovantes de horas complementares e chat para notificação e comentário sobre os comprovantes.
 
 ## Layout
-![Web 1](https://github.com/UNASP-Horas-Complementares/Assets/blob/master/indexscreen.png)
 
-![Web 2](https://github.com/UNASP-Horas-Complementares/Assets/blob/master/profilescreen.png)
+<img src="https://github.com/UNASP-Horas-Complementares/Assets/blob/master/indexscreen.png" width="700px" />
+<img src="https://github.com/UNASP-Horas-Complementares/Assets/blob/master/profilescreen.png" width="700px" />
+<img src="https://github.com/UNASP-Horas-Complementares/Assets/blob/master/loginscreen.png" width="700px" />
+<img src="https://github.com/UNASP-Horas-Complementares/Assets/blob/master/registerscreen.png" width="700px" />
+<img src="https://github.com/UNASP-Horas-Complementares/Assets/blob/master/editprofilescreen.png" width="700px" />
+<img src="https://github.com/UNASP-Horas-Complementares/Assets/blob/master/chatsscreen.png" width="700px" />
 
-![Web 3](https://github.com/UNASP-Horas-Complementares/Assets/blob/master/loginscreen.png)
-
-![Web 4](https://github.com/UNASP-Horas-Complementares/Assets/blob/master/registerscreen.png)
-
-![Web 5](https://github.com/UNASP-Horas-Complementares/Assets/blob/master/editprofilescreen.png)
-
-![Web 6](https://github.com/UNASP-Horas-Complementares/Assets/blob/master/chatsscreen.png)
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/UNASP-Horas-Complementares/Back-End/blob/main/modelo%20Banco/modelo_conceitual.jpeg)
+<img src="https://github.com/UNASP-Horas-Complementares/Back-End/blob/main/modelo%20Banco/modelo_conceitual.jpeg" width="700px" />
 
 # Tecnologias utilizadas
 ## Back end
